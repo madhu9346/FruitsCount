@@ -1,0 +1,46 @@
+.container {
+  background-color: rgb(243, 243, 104);
+  padding: 10px;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.subCon {
+  background-color: white;
+  background-size: cover;
+  text-align: center;
+  padding: 20px;
+  border-radius: 10px;
+}
+.head {
+  color: black;
+  font-weight: bold;
+}
+.subCon1 {
+  display: flex;
+  flex-direction: row;
+  margin: 25px;
+}
+.image {
+  height: 350px;
+  width: 450px;
+  margin: 30px;
+}
+.btn {
+  color: black;
+  font-weight: bold;
+  background-color: aquamarine;
+  border-radius: 5px;
+  padding: 10px;
+}
+.span {
+  color: rgb(240, 11, 11);
+}
+.subCon2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
